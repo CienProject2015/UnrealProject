@@ -1,3 +1,14 @@
+# Unreal Project
+/Binaries
+/Content
+/Saved
+/Intermediate
+/Build
+/Config
+*.sdf
+*.uproject
+*.sln
+
 # Compiled Object files
 *.slo
 *.lo
